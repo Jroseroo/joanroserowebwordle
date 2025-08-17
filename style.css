@@ -106,14 +106,14 @@
 
     .input_box1{
         width: 100%;
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
         border-radius: 1rem;
     }
 
     .input_box2{
         width: 100%;
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
         border-radius: 1rem;
     }
@@ -121,14 +121,14 @@
 
     .input_box3{
         width: 100%;
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
         border-radius: 1rem;
     }
 
     .input_box4{
         width: 100%;
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
         border-radius: 1rem;
     }
@@ -136,7 +136,7 @@
 
     .input_box5{
         width: 100%;
-        font-size: 3rem;
+        font-size: 2rem;
         text-align: center;
         border-radius: 1rem;
     }
@@ -1305,4 +1305,5 @@
     #btn_comprobar1, #btn_comprobar2, #btn_comprobar3, #btn_comprobar4, #btn_comprobar5{
         display: none;
     }
+
 }
